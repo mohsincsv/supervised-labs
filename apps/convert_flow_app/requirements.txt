@@ -1,0 +1,3 @@
+gradio
+lightrag[openai]
+python-dotenv
